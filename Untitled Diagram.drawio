@@ -70,6 +70,9 @@
             <mxPoint x="591" y="416.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RH8Yzj7yN82kzeOvIBwl-1" value="Either quarentine, block or delete while investigating" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
