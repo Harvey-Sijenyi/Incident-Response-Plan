@@ -145,7 +145,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RH8Yzj7yN82kzeOvIBwl-19" value="END OF THE PROCESS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="RH8Yzj7yN82kzeOvIBwl-19" value="REPORT SUBMISSION" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="800" width="227" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RH8Yzj7yN82kzeOvIBwl-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cdqA0KJlWaNnWs8eYzD0-7" target="RH8Yzj7yN82kzeOvIBwl-19">
